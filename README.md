@@ -17,7 +17,7 @@ This repository contains a Python implementation of the **Caesar Cipher** as par
 - Preserves spaces and punctuation
 - Modular functions for encrypt and decrypt
 
-## 🧪 How to Run
+## How to Run
 
 ```bash
 python caesar_cipher.py
